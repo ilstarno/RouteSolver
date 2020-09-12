@@ -29,7 +29,7 @@ namespace RouteSolver
             IRouteService tsps = new GoogleResolverService();
             var route = tsps.CalculateRoute(qytetet);
 
-            Console.WriteLine(route);
+            Console.Write(route);
         }
     }
 }
