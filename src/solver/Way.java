@@ -4,6 +4,11 @@ import java.util.Random;
 
 import solver.Graph;
 
+/**
+ * @author Indrit Zeqiri
+ * @Github https://github.com/ilstarno
+ * @Linkedin https://www.linkedin.com/in/indrit-zeqiris-3b6b8ba6/
+ */
 public class Way {
 
 	Graph graph;

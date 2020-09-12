@@ -19,6 +19,11 @@ import solver.Way;
 	 Use of the Distance Matrix API must relate to the display of information on a
 	 Google Map
   */
+/**
+ * @author Indrit Zeqiri
+ * @Github https://github.com/ilstarno
+ * @Linkedin https://www.linkedin.com/in/indrit-zeqiris-3b6b8ba6/
+ */
 public class GoogleResolverService implements RouteService {
 
 	private static final String SERVICE_URL = "https://maps.googleapis.com/maps/api/distancematrix/json?key=000000000";

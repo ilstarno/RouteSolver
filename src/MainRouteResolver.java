@@ -4,9 +4,17 @@ import java.util.Collection;
 import service.RouteService;
 import service.remoteservices.GoogleResolverService;
 
+
+
+
 /*Please notice that GoogleResolverService uses the Google's Distance Matrix API.
 	 Use of the Distance Matrix API must relate to the display of information on a
 	 Google Map*/
+/**
+ * @author Indrit Zeqiri
+ * @Github https://github.com/ilstarno
+ * @Linkedin https://www.linkedin.com/in/indrit-zeqiris-3b6b8ba6/
+ */
 public class MainRouteResolver {
 
 	public static void main(String[] args) {
