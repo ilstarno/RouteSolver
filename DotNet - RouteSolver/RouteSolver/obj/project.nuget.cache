@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXqies5ANlXuPLnc7ICE43iTlzfnrlHlt/zs2g2EgSDiOxMdp0g8ejgXVv8XWZ+nMxTtcpUDdPVZaovqXTWQeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Indrit\\source\\repos\\RouteSolver\\RouteSolver\\RouteSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Indrit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Indrit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Indrit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

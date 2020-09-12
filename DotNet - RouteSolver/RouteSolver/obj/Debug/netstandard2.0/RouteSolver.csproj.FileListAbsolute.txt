@@ -1,0 +1,9 @@
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\bin\Debug\netstandard2.0\RouteSolver.deps.json
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\bin\Debug\netstandard2.0\RouteSolver.dll
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.csprojAssemblyReference.cache
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.AssemblyInfoInputs.cache
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.AssemblyInfo.cs
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\bin\Debug\netstandard2.0\RouteSolver.pdb
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.dll
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.pdb
+C:\Users\Indrit\source\repos\RouteSolver\RouteSolver\obj\Debug\netstandard2.0\RouteSolver.csproj.CoreCompileInputs.cache
