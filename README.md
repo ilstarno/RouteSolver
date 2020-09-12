@@ -27,3 +27,40 @@ You are also required to use a google api key to use the maps you need to place 
 ### **_private static final String SERVICE_URL = "https://maps.googleapis.com/maps/api/distancematrix/json?key=000000000";_**
 
 
+# How to use
+Basically, I wrote a class called GoogleResolverService from which you can call the method CalculateRoute(). 
+This method takes as its only parameter a collection of String that represent the Locations to visit 
+(you can use the name of a city or a complete address and google services will find it for you). 
+The first element of this collection should be the origin of the route. As result, CalculateRoute() returns 
+another String collection that represent the order in which you should visit the locations to have the shortest route.
+
+```java
+public class MainRouteResolver {
+
+	public static void main(String[] args) {
+		Collection<String> qytetet = new ArrayList<String>();
+
+		/*
+		 * We add a list of cities in Albania to solve their best path to visit This
+		 * example prints on the console the best route between this cities
+		 */
+		qytetet.add("Tirane");
+		qytetet.add("Durres");
+		qytetet.add("Berat");
+		qytetet.add("Sarande");
+		qytetet.add("Shkoder");
+		qytetet.add("Lezhe");
+		qytetet.add("Tropoje");
+		qytetet.add("Librazhd");
+		qytetet.add("Korce");
+		qytetet.add("Elbasan");
+
+		RouteService tsps = new GoogleResolverService();
+		Collection<String> route = tsps.CalculateRoute(qytetet);
+
+		System.out.println(route);
+
+	}
+```
+
+
